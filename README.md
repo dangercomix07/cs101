@@ -1,2 +1,2 @@
-# cs101
+# CS101
 IITB CS101 course related programs
